@@ -1,10 +1,10 @@
 # Big Video Tools & Features
 This repository is a collection point for ideas, wishes and suggestions for tools and features to enhance the Big Video workflow for qualitative video analysis.
 We use our BigSoftVideo space in GitHub to develop software tools to support Big Video. Most of the coding we do is private until a robust beta is released publicly.
-The software development team at present includes Paul McIlvenny, Jacob Davidsen, Nicklas Haagh Christensen and Andreas Hejndorf.
-We are working on four software projects at the moment:
-1. *AVA360VR* (Annotate, Visualise, Analyse 360 video in VR) - Stage 4 beta [HTC Vive/Vive Pro Win10]
-2. *CAVA360VR* (Collaborate, Annotate, Visualise, Analyse 360 video in VR) multi-user - Stage 2 beta [HTC Vive/Vive Pro Win10]
+The software development team is led by Paul McIlvenny and Jacob Davidsen. Programmers who have worked on BigSoftVideo projects include Nicklas Haagh Christensen, Stefan Tanderup and Andreas Hejndorf.
+We have four ongoing software projects at various stages of development:
+1. *AVA360VR* (Annotate, Visualise, Analyse 360 video in VR) - Stage 4 soon ready for live beta-testing [HTC Vive/Vive Pro Win10]
+2. *CAVA360VR* (Collaborate, Annotate, Visualise, Analyse 360 video in VR) multi-user - Stage 2 ready for live data sessions [HTC Vive/Vive Pro Win10]
 3. *SQUIVE* (Staging QUalitative Immersive Virtualisation Engine) - Stage 3 beta [HTC Vive/Vive Pro Win10]
 4. *DOTE* (Distributed Open Transcription Environment) - Stage 2 alpha [Win10/macOS]
 
